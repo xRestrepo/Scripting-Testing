@@ -1,0 +1,5 @@
+<meta>
+	<info author="Restrepo" type="gamemode" name="Scripting Testing" description="Scripting" />
+	<script src="server.lua" type="server" />
+	<script src="script.lua" type="server" />
+</meta>
